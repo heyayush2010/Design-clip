@@ -2,7 +2,7 @@ import tkinter as tk
 import random
 import math
 
-# Colors of the fireworks (now includes black as requested)
+# Colors of the fireworks 
 firework_colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet", "black"]
 
 timers = []  # Global timer list for scheduled tasks
